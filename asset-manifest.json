@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mdb-react-components/static/css/main.1a1f38c3.css",
+    "main.js": "/mdb-react-components/static/js/main.856ac126.js",
+    "index.html": "/mdb-react-components/index.html",
+    "main.1a1f38c3.css.map": "/mdb-react-components/static/css/main.1a1f38c3.css.map",
+    "main.856ac126.js.map": "/mdb-react-components/static/js/main.856ac126.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a1f38c3.css",
+    "static/js/main.856ac126.js"
+  ]
+}
