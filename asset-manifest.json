@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/mdb-react-components/static/css/main.4e7b3726.css",
-    "main.js": "/mdb-react-components/static/js/main.c00c0402.js",
+    "main.css": "/mdb-react-components/static/css/main.56f230a5.css",
+    "main.js": "/mdb-react-components/static/js/main.3fb92091.js",
     "index.html": "/mdb-react-components/index.html",
-    "main.4e7b3726.css.map": "/mdb-react-components/static/css/main.4e7b3726.css.map",
-    "main.c00c0402.js.map": "/mdb-react-components/static/js/main.c00c0402.js.map"
+    "main.56f230a5.css.map": "/mdb-react-components/static/css/main.56f230a5.css.map",
+    "main.3fb92091.js.map": "/mdb-react-components/static/js/main.3fb92091.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e7b3726.css",
-    "static/js/main.c00c0402.js"
+    "static/css/main.56f230a5.css",
+    "static/js/main.3fb92091.js"
   ]
 }
