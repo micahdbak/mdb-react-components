@@ -2,4 +2,4 @@
 
 A collection of handy React components.
 
-For documentation, please see the [example website](https://micahdb.com/mdb-react-components).
+(This project has become [CSSS/csss-raspberry](https://github.com/CSSS/csss-raspberry).)
